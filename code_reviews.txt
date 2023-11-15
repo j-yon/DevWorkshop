@@ -3,7 +3,11 @@ Similar:
 - Respond to feedback as soon as possible
 
 Different:
-- 
-- 
+- Yelp wants you the read your diff before you get your code reviewed while Microsoft does not specify this
+- Microsoft focuses more on the human aspect of code review such as the feelings of the reviewers while Yelp does not
 
 Key items:
+- Offer constructive criticism but do not be mean
+- Only make small changes
+- Respond fast
+- be clear and concise 
