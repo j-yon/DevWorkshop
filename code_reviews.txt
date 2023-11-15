@@ -11,3 +11,12 @@ Key items:
 - Only make small changes
 - Respond fast
 - be clear and concise 
+
+Good code review: https://codereview.stackexchange.com/questions/287567/malloc-and-free-implementation
+
+This code review is good because it is clear and constructive in its advice and is written professionally
+
+Bad code review: https://codereview.stackexchange.com/questions/287851/my-drawing-finder
+
+This code review is not that good because the feedback is not very constructive and a bit subjective. Additionally, it doesn't talk too much about what the coder requested. To make this better, I would focus my criticisms more on the functionality of the code rather than the appearance.
+
